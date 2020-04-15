@@ -1,0 +1,13 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 1em;
+    margin: auto;
+    background-color: crimson;
+    color: antiquewhite;
+}
+
+.goat-mode{
+    font-family: cursive;
+    background-color: black;
+}
+
