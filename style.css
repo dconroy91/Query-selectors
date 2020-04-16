@@ -1,4 +1,4 @@
-body{
+/* body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     padding: 1em;
     margin: auto;
@@ -9,5 +9,26 @@ body{
 .goat-mode{
     font-family: cursive;
     background-color: black;
+} */
+
+
+.article {
+    padding: 10px;
+    border: 1px solid blue;
 }
 
+.article__header {
+    font-size: 1.5em;
+}
+
+.article__footer {
+    padding: 0 30px;
+}
+
+.goldenrod {
+    background-color: goldenrod;
+}
+
+.dashed {
+    border: 1px dashed black;
+}
